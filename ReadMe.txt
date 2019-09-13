@@ -1,0 +1,1 @@
+I just tried how to create same page as already existing website just using its codes. Here I just used its code to create one section of that and it run. that website i tried to copy is https://leonardodicaprio.com/
